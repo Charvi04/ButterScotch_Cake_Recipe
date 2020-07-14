@@ -1,6 +1,6 @@
 #  Butter Scotch Cake Recipe
 
-<img src="https://www.caketowncafe.in/wp-content/uploads/2018/12/butterscotchcake-1.jpg" alt="Butterscotch Cake – Cake Town Cafe" style="zoom: 150%;" />
+
 
 ##  **<u>Ingredients</u>**
 
@@ -56,7 +56,7 @@
 
         
 
-<img    src="https://cdn.shopify.com/s/files/1/1060/3816/products/Beautiful_Bliss_butterscotch_strawberry_cake.jpg?v=1592324604" alt="Beautiful Bliss Butterscotch Strawberry Cake - BloomsVilla" style="zoom:25%;" />
+
 
 ##  <u>**Instructions**</u>
 
@@ -124,4 +124,3 @@ Let it cool ( be careful as it is very hot and it may take 15-30 minutes to cool
 
 
 
-<img src="https://www.chefbakers.com/userfiles/butter-scotch-cake-110.jpg" alt="Buy Butter Scotch Cake One Kg Online in Bangalore | Order Butter ..." style="zoom:200%;" />
